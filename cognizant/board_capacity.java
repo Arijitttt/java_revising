@@ -1,3 +1,4 @@
+package cognizant;
  class board_capacity {
     private int board_capacity = 30,people =75;
     
